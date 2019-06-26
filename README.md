@@ -45,7 +45,7 @@ def flatten_json(b, delim):
 
 flat_dict = flatten_json(jsons, '__')
 ````
-Now, the flattened file needs to be layedout by year for all the items.
+Now, the flattened file needs to be laid out by year for all the items.
 
 ````
 flatData = pd.DataFrame.from_dict(flat_dict, orient='index')
