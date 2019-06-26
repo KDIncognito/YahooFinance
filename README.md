@@ -59,6 +59,6 @@ pafk= result_a.pivot_table(values='vls', columns='t_frm',index=['itm'],)
 ````
 Now the object ```` pafk ```` has data in a table you could export to an excel format
 
-###Please let me know if you find any problems with this version. I will do my best to help you out. Thank you!
+###Please let me know if you find any problems with this version. I will do my best to help you out. Good luck!
 
  
