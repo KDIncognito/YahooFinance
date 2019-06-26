@@ -1,4 +1,3 @@
-####(work in progress)
 Yahoo Finance or YF as I call it (Python yahoofinancials api), does not need a user specific API key. It works well in extracting historical data from YF. There are instructions and blogs on how to retrieve data from YF API already, but information on how to convert that data to a pd table could be a bit tricky for beginners like myself. This is my attempt to put together the data extraction part and the tabulation piece. Hope you find it useful!
 
 ## Data extraction from the API
